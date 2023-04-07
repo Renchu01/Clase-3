@@ -1,0 +1,31 @@
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\appsettings.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\Clase 3 Hprog.staticwebassets.runtime.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\Clase 3 Hprog.exe
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\Clase 3 Hprog.deps.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\Clase 3 Hprog.runtimeconfig.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\Clase 3 Hprog.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\bin\Debug\net7.0\Clase 3 Hprog.pdb
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.csproj.AssemblyReference.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.AssemblyInfoInputs.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.AssemblyInfo.cs
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.csproj.CoreCompileInputs.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.RazorAssemblyInfo.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.RazorAssemblyInfo.cs
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets\msbuild.Clase 3 Hprog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase 3 Hprog.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase 3 Hprog.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase 3 Hprog.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\scopedcss\bundle\Clase 3 Hprog.styles.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\scopedcss\projectbundle\Clase 3 Hprog.bundle.scp.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\refint\Clase 3 Hprog.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.pdb
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\Clase 3 Hprog.genruntimeconfig.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Clase 3 Hprog\obj\Debug\net7.0\ref\Clase 3 Hprog.dll
